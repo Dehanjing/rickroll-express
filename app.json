@@ -1,0 +1,12 @@
+{
+	"name": "Small Rickroll App",
+	"description": "just simple express app for rickroll.",
+	"keywords": [
+		"rickroll-express",
+		"rickroll",
+		"express"
+	],
+	"website": "https://dhn.my.id/",
+	"repository": "https://github.com/Dehanjing/rickroll-express",
+	"logo": "https://dhn.my.id/favicon.jpg"
+}
